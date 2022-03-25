@@ -1,0 +1,19 @@
+{
+  "name": "firstprojectlara",
+  "version": "1.0.0",
+  "description": "\"First project with NODE JS y NPM\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel123Lara/NodeJSyNPM.git"
+  },
+  "author": "Angel Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angel123Lara/NodeJSyNPM/issues"
+  },
+  "homepage": "https://github.com/Angel123Lara/NodeJSyNPM#readme"
+}
